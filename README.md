@@ -1,3 +1,16 @@
+OUTPUT:-
+![image](https://github.com/scorpyy10/weather/assets/99164081/bd674af2-1688-4151-a31c-a483b000c8e5)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
